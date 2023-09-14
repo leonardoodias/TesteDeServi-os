@@ -26,4 +26,4 @@ Testes de Serviços da Especialização em Testes Ágeis da Cesar School
 | 1            | Exercicio 1 - A, B, C e D     | ✔                          | ✔          |
 | 2            | Exercicio 2 - A e B           | ✔                          | ✔          |
 | 3            | Exercicio 3 - A e B           | ✔                          | ✔          |
-| 4            | Exericio 4 - A e B            | ✔                          | ✔          |
+| 4            | Exercicio 4 - A e B           | ✔                          | ✔          |
