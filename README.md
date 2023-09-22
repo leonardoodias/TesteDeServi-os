@@ -1,5 +1,6 @@
-# Teste de Servicos
-Repositório utilizado como estudo de testes de serviços da Especialização em Testes Ágeis da Cesar School utilizando Postman.
+# Teste de Servicos - ServRest
+- Repositório utilizado como estudo e entrega dos exercícios dos testes de serviços utilizando Postman. 
+- Especialização em Testes Ágeis da Cesar School
 
 # API
 ☕ API [ServeRest](https://serverest.dev) 
