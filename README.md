@@ -1,6 +1,7 @@
 # Teste de Servicos - ServRest
 - Repositório utilizado como estudo e entrega dos exercícios dos testes de serviços utilizando Postman. 
 - Especialização em Testes Ágeis da Cesar School
+- Professor: Davi Gama Hardman
 
 # API
 ☕ API [ServeRest](https://serverest.dev) 
